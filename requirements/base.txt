@@ -1,0 +1,10 @@
+# Django
+django
+
+# REST
+djangorestframework
+rest-framework-generic-relations
+drf-nested-routers
+django-filter
+drf-extensions
+drf-yasg
